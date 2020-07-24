@@ -7,22 +7,25 @@ Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.c
 
 ## Conceitos Importantes
 ### MVC
-Model - Manipula Dados
-View - Interface que o usuário interage
-Controller - Define Regras de negócio
+- **Model**
+  - Manipula Dados
+- **View**
+  - Interface que o usuário interage
+- **Controller**
+  - Define Regras de negócio
 
-### this
-O comando this referencia atributos e métodos
+### This
+O comando `this` referencia atributos e métodos.
 
 ### Encapsulamento
-Controla o acesso a um atributo ou método
+Controla o acesso a um atributo ou método.
 Os tipos de encapsulamento são:
 - **public**
-  - Todos acessam
+  - Todos acessam.
 - **protected**
-  - Atributos e métodos da mesma classe e classe Pai
+  - Atributos e métodos da mesma classe e classe Pai.
 - **private**
-  - Somente atributos e métodos da própria classe
+  - Somente atributos e métodos da própria classe.
 
 ### getters e setters
-Permitem definir como acessar os valores
+Permitem definir como acessar os valores.
