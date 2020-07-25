@@ -7,9 +7,12 @@ Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.c
 
 ## Conceitos Importantes
 ### MVC
-Model - Manipula Dados
-View - Interface que o usuário interage
-Controller - Define Regras de negócio
+- **Model**
+  - Manipula Dados
+- **View**
+  - Interface que o usuário interage
+- **Controller**
+  - Define Regras de negócio
 
 ### this
 O comando this referencia atributos e métodos
